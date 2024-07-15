@@ -1,0 +1,14 @@
+button {
+    background-color: #59b465be;
+    color: #252c25e3;
+    font-weight: 700;
+    outline: rgb(65, 143, 107);
+    cursor: pointer;
+    padding: 0.5%;
+    font-size: 13px;
+    border-radius: 5px;
+}
+
+.btn {
+    width: 160px;
+}
